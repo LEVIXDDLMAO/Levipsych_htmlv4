@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				240
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "EddIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				180
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "EddDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				277
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "EddUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				244
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "EddLeft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				11,
+				237
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "EddRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/EddAngry-c",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "edd-c",
+	"flip_x": true,
+	"healthbar_colors": [
+		51,
+		173,
+		51
+	],
+	"camera_position": [
+		20,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

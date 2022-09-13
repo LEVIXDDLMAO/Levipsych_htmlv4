@@ -1,0 +1,334 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "nevada",
+		"player1": "bf",
+		"player2": "hank",
+		"player3": null,
+		"events": [
+			[
+				14542.6829268293,
+				[
+					[
+						"Change Character",
+						"1",
+						"cancerlord"
+					]
+				]
+			],
+			[
+				15274.3902439024,
+				[
+					[
+						"Change Character",
+						"0",
+						"sans-p"
+					]
+				]
+			],
+			[
+				26250,
+				[
+					[
+						"Change Character",
+						"1",
+						"taki"
+					]
+				]
+			],
+			[
+				27347.5609756098,
+				[
+					[
+						"Change Character",
+						"0",
+						"whitty2-p"
+					]
+				]
+			],
+			[
+				32103.6585365854,
+				[
+					[
+						"Change Character",
+						"1",
+						"austin"
+					]
+				]
+			],
+			[
+				32652.4390243903,
+				[
+					[
+						"Change Character",
+						"0",
+						"eteled3-p"
+					]
+				]
+			],
+			[
+				35030.4878048781,
+				[
+					[
+						"Change Character",
+						"0",
+						"baldi2-p"
+					]
+				]
+			],
+			[
+				35579.2682926829,
+				[
+					[
+						"Change Character",
+						"1",
+						"paldo"
+					]
+				]
+			],
+			[
+				37957.3170731707,
+				[
+					[
+						"Change Character",
+						"1",
+						"dorknic"
+					]
+				]
+			],
+			[
+				43810.9756097561,
+				[
+					[
+						"Change Character",
+						"0",
+						"edd-c-p"
+					]
+				]
+			],
+			[
+				49664.6341463415,
+				[
+					[
+						"Change Character",
+						"1",
+						"auditor"
+					],
+					[
+						"Change Character",
+						"0",
+						"newlordx-p"
+					]
+				]
+			],
+			[
+				55518.2926829268,
+				[
+					[
+						"Change Character",
+						"0",
+						"lylace-p"
+					]
+				]
+			],
+			[
+				56432.9268292683,
+				[
+					[
+						"Change Character",
+						"1",
+						"mx"
+					]
+				]
+			],
+			[
+				61097.5609756098,
+				[
+					[
+						"Change Character",
+						"2",
+						"trickyacc"
+					],
+					[
+						"Play Animation",
+						"land",
+						"GF"
+					]
+				]
+			],
+			[
+				67225.6097560976,
+				[
+					[
+						"Change Character",
+						"0",
+						"cablecrow-p"
+					]
+				]
+			],
+			[
+				67317.0731707317,
+				[
+					[
+						"Screen Shake",
+						"0.5, 0.03",
+						"0, 0.00"
+					]
+				]
+			],
+			[
+				73079.2682926829,
+				[
+					[
+						"Change Character",
+						"1",
+						"missingno"
+					]
+				]
+			],
+			[
+				78932.9268292683,
+				[
+					[
+						"Change Character",
+						"0",
+						"flippy2-p"
+					],
+					[
+						"Change Character",
+						"1",
+						"rosy"
+					]
+				]
+			],
+			[
+				85609.7560975609,
+				[
+					[
+						"Opponent Fade",
+						"0.4",
+						"0"
+					]
+				]
+			],
+			[
+				86249.9999999999,
+				[
+					[
+						"Change Character",
+						"1",
+						"eggmanexe"
+					]
+				]
+			],
+			[
+				86341.4634146341,
+				[
+					[
+						"Opponent Fade",
+						"0",
+						"100"
+					],
+					[
+						"Flash White",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"2",
+						"rocco-gf"
+					]
+				]
+			],
+			[
+				86798.7804878048,
+				[
+					[
+						"Change Character",
+						"0",
+						"yuricrazy-p"
+					]
+				]
+			],
+			[
+				92103.6585365853,
+				[
+					[
+						"Change Character",
+						"0",
+						"realmonika-p"
+					]
+				]
+			],
+			[
+				92652.4390243901,
+				[
+					[
+						"Change Character",
+						"1",
+						"nblantad1"
+					]
+				]
+			],
+			[
+				97957.3170731706,
+				[
+					[
+						"Change Character",
+						"1",
+						"majin"
+					]
+				]
+			],
+			[
+				103810.975609756,
+				[
+					[
+						"Change Character",
+						"0",
+						"mami2-p"
+					]
+				]
+			],
+			[
+				109664.634146341,
+				[
+					[
+						"Change Character",
+						"1",
+						"suicide"
+					]
+				]
+			],
+			[
+				115518.292682927,
+				[
+					[
+						"Change Character",
+						"0",
+						"zardy-p"
+					]
+				]
+			],
+			[
+				121463.414634146,
+				[
+					[
+						"Screen Shake",
+						"1, 0.05",
+						"0, 0.00"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "rocco-gf",
+		"bpm": 164,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Accelerant"
+	}
+}

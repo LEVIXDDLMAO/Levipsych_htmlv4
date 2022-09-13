@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				240
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "EddIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				115,
+				254
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "EddRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				180
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "EddDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				267
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "EddUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				243
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "EddLeft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-4,
+				248
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "EddHEY!!"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Edd-c",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "edd-c",
+	"flip_x": false,
+	"healthbar_colors": [
+		51,
+		173,
+		51
+	],
+	"camera_position": [
+		-30,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

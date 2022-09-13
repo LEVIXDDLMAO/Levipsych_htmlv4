@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "eddhouseChallenge",
+		"player1": "edd-c-p",
+		"player2": "tord-c",
+		"player3": null,
+		"events": [
+			[
+				61280.4878048781,
+				[
+					[
+						"Change Character",
+						"2",
+						"eduardo-g"
+					]
+				]
+			],
+			[
+				61463.4146341464,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				61737.8048780488,
+				[
+					[
+						"Change Character",
+						"0",
+						"edd-c-angryp"
+					]
+				]
+			],
+			[
+				85884.1463414633,
+				[
+					[
+						"Change Character",
+						"0",
+						"edd-c-p"
+					]
+				]
+			],
+			[
+				86341.4634146341,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				86981.7073170731,
+				[
+					[
+						"Change Character",
+						"2",
+						"noone"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "noone",
+		"bpm": 164,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Accelerant-t"
+	}
+}

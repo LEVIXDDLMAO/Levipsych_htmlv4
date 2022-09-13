@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="EddAngry-c.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="EddDown0000" x="0" y="0" width="403" height="584" frameX="0" frameY="-7" frameWidth="403" frameHeight="592"/>
+	<SubTexture name="EddDown0001" x="433" y="0" width="403" height="585" frameX="0" frameY="-7" frameWidth="403" frameHeight="592"/>
+	<SubTexture name="EddDown0002" x="866" y="0" width="388" height="592" frameX="-8" frameY="0" frameWidth="403" frameHeight="592"/>
+	<SubTexture name="EddDown0003" x="1284" y="0" width="388" height="592" frameX="-8" frameY="0" frameWidth="403" frameHeight="592"/>
+	<SubTexture name="EddDown0004" x="1702" y="0" width="388" height="592" frameX="-8" frameY="0" frameWidth="403" frameHeight="592"/>
+	<SubTexture name="EddDown0005" x="2120" y="0" width="388" height="592" frameX="-8" frameY="0" frameWidth="403" frameHeight="592"/>
+	<SubTexture name="EddDown0006" x="866" y="0" width="388" height="592" frameX="-8" frameY="0" frameWidth="403" frameHeight="592"/>
+	<SubTexture name="EddDown0007" x="1284" y="0" width="388" height="592" frameX="-8" frameY="0" frameWidth="403" frameHeight="592"/>
+	<SubTexture name="EddIdle0000" x="2538" y="0" width="360" height="646" frameX="0" frameY="-7" frameWidth="360" frameHeight="654"/>
+	<SubTexture name="EddIdle0001" x="2538" y="0" width="360" height="646" frameX="0" frameY="-7" frameWidth="360" frameHeight="654"/>
+	<SubTexture name="EddIdle0002" x="2928" y="0" width="351" height="647" frameX="-4" frameY="-6" frameWidth="360" frameHeight="654"/>
+	<SubTexture name="EddIdle0003" x="2928" y="0" width="351" height="647" frameX="-4" frameY="-6" frameWidth="360" frameHeight="654"/>
+	<SubTexture name="EddIdle0004" x="3309" y="0" width="354" height="651" frameX="-3" frameY="-2" frameWidth="360" frameHeight="654"/>
+	<SubTexture name="EddIdle0005" x="3693" y="0" width="353" height="652" frameX="-3" frameY="-2" frameWidth="360" frameHeight="654"/>
+	<SubTexture name="EddIdle0006" x="4076" y="0" width="345" height="652" frameX="-7" frameY="-2" frameWidth="360" frameHeight="654"/>
+	<SubTexture name="EddIdle0007" x="4451" y="0" width="348" height="652" frameX="-6" frameY="-1" frameWidth="360" frameHeight="654"/>
+	<SubTexture name="EddIdle0008" x="0" y="682" width="348" height="653" frameX="-6" frameY="0" frameWidth="360" frameHeight="654"/>
+	<SubTexture name="EddIdle0009" x="378" y="682" width="345" height="653" frameX="-7" frameY="-1" frameWidth="360" frameHeight="654"/>
+	<SubTexture name="EddIdle0010" x="753" y="682" width="345" height="653" frameX="-7" frameY="-1" frameWidth="360" frameHeight="654"/>
+	<SubTexture name="EddIdle0011" x="1128" y="682" width="348" height="653" frameX="-6" frameY="0" frameWidth="360" frameHeight="654"/>
+	<SubTexture name="EddIdle0012" x="0" y="682" width="348" height="653" frameX="-6" frameY="0" frameWidth="360" frameHeight="654"/>
+	<SubTexture name="EddIdle0013" x="378" y="682" width="345" height="653" frameX="-7" frameY="-1" frameWidth="360" frameHeight="654"/>
+	<SubTexture name="EddLeft0000" x="1506" y="682" width="358" height="656" frameX="0" frameY="0" frameWidth="358" frameHeight="657"/>
+	<SubTexture name="EddLeft0001" x="1894" y="682" width="358" height="656" frameX="0" frameY="-1" frameWidth="358" frameHeight="657"/>
+	<SubTexture name="EddLeft0002" x="2282" y="682" width="349" height="656" frameX="-8" frameY="-1" frameWidth="358" frameHeight="657"/>
+	<SubTexture name="EddLeft0003" x="2661" y="682" width="350" height="656" frameX="-8" frameY="0" frameWidth="358" frameHeight="657"/>
+	<SubTexture name="EddLeft0004" x="3041" y="682" width="350" height="656" frameX="-8" frameY="0" frameWidth="358" frameHeight="657"/>
+	<SubTexture name="EddLeft0005" x="3421" y="682" width="349" height="656" frameX="-8" frameY="-1" frameWidth="358" frameHeight="657"/>
+	<SubTexture name="EddLeft0006" x="2282" y="682" width="349" height="656" frameX="-8" frameY="-1" frameWidth="358" frameHeight="657"/>
+	<SubTexture name="EddRight0000" x="3800" y="682" width="374" height="652" frameX="-1" frameY="0" frameWidth="375" frameHeight="653"/>
+	<SubTexture name="EddRight0001" x="4204" y="682" width="373" height="653" frameX="-2" frameY="0" frameWidth="375" frameHeight="653"/>
+	<SubTexture name="EddRight0002" x="0" y="1368" width="367" height="652" frameX="-1" frameY="-1" frameWidth="375" frameHeight="653"/>
+	<SubTexture name="EddRight0003" x="397" y="1368" width="368" height="651" frameX="0" frameY="-1" frameWidth="375" frameHeight="653"/>
+	<SubTexture name="EddRight0004" x="795" y="1368" width="368" height="651" frameX="0" frameY="-1" frameWidth="375" frameHeight="653"/>
+	<SubTexture name="EddRight0005" x="1193" y="1368" width="367" height="652" frameX="-1" frameY="-1" frameWidth="375" frameHeight="653"/>
+	<SubTexture name="EddUp0000" x="1590" y="1368" width="303" height="686" frameX="-4" frameY="0" frameWidth="312" frameHeight="686"/>
+	<SubTexture name="EddUp0001" x="1923" y="1368" width="301" height="686" frameX="-5" frameY="0" frameWidth="312" frameHeight="686"/>
+	<SubTexture name="EddUp0002" x="2254" y="1368" width="312" height="679" frameX="0" frameY="-7" frameWidth="312" frameHeight="686"/>
+	<SubTexture name="EddUp0003" x="2596" y="1368" width="312" height="679" frameX="0" frameY="-7" frameWidth="312" frameHeight="686"/>
+	<SubTexture name="EddUp0004" x="2938" y="1368" width="312" height="679" frameX="0" frameY="-7" frameWidth="312" frameHeight="686"/>
+	<SubTexture name="EddUp0005" x="3280" y="1368" width="312" height="679" frameX="0" frameY="-7" frameWidth="312" frameHeight="686"/>
+	<SubTexture name="EddUp0006" x="2254" y="1368" width="312" height="679" frameX="0" frameY="-7" frameWidth="312" frameHeight="686"/>
+</TextureAtlas>

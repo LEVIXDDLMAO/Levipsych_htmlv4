@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Accelerant-T", "tord", [34, 51, 68]],
+		["Accelerant", "hank", [34, 51, 68]]
+	],
+
+	"weekCharacters": [
+		"spooky",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "halloween",
+
+	"storyName": "funny",
+	"weekBefore": "week1",
+	"weekName": "Week 99",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}
